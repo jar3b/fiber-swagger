@@ -1,4 +1,4 @@
-module github.com/arsmn/fiber-swagger/v2
+module github.com/jar3b/fiber-swagger/v2
 
 go 1.14
 
